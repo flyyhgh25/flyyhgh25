@@ -1,5 +1,10 @@
-### 👋 Hi there!, I'm Yatinah <br>
+<h1 align="center">Hi There , I'm Yatinah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Information+System+Student;Web+Developer;Mobile+Developer;Always+learning+new+things"></a>
+</p>
 
+
+<br>
 👨🏻‍💻  About Me <br>
 🔭  I like to explore new technologies and develop software solutions and quick hacks. <br>
 🌱  I'm on track for learning more about Web Development and Mobile Development.<br>
