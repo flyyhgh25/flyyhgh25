@@ -1,6 +1,6 @@
 <h1 align="center">Hi There , I'm Yatinah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%4169e1&size=30&center=true&vCenter=true&width=600&height=200&lines=Crafting+Code;Eager+Software+Engineer;Information+System+Enthusiast;Lifelong+Learner+of+New+Tech;Passionate+About+Innovation."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%4169e1&size=30&center=true&vCenter=true&width=600&height=100&lines=Crafting+Code;Software+Engineer;Information+System+Student;Lifelong+Learner+of+New+Things;Passionate+About+Innovation."></a>
 </p>
 
 
